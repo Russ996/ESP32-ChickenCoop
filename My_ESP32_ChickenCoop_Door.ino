@@ -1,3 +1,4 @@
+// This script is a loosely based on Dave Naves Arduino Uno script at https://davenaves.com/blog/interests-projects/chickens/arduino-chicken-coop/
 // This script is designed for the ESP32 and channel A of an L298N motor controller.
 // Its purpose is to control a chicken coop door.
 // It uses a photoresistor to measure the light level and two reed swithces on the door.
